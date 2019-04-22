@@ -3,7 +3,7 @@ Reproduce slowfast networks in pytorch(unofficial)
 By Ziheng Guo  
 Email: 527463513@qq.com  
 ## Reference:
-- [SlowFast Networks for Video Recognition](https://arxiv.org/abs/1812.03982)  
+[SlowFast Networks for Video Recognition](https://arxiv.org/abs/1812.03982)  
 Adapted code from:  
     @inproceedings{hara3dcnns,  
       author={Kensho Hara and Hirokatsu Kataoka and Yutaka Satoh},  
